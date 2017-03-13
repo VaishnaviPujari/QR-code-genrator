@@ -1,0 +1,37 @@
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\obj\x86\Debug\Search_Case.csprojResolveAssemblyReference.cache
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Form1.resources
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Properties.Resources.resources
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\obj\x86\Debug\Search_Case.csproj.GenerateResource.Cache
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\bin\Debug\Search_Case.exe
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\bin\Debug\Search_Case.pdb
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\bin\Debug\QRCoder.dll
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\bin\Debug\UnityEngine.dll
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\bin\Debug\QRCoder.pdb
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\obj\x86\Debug\Search_Case.exe
+D:\College data\OtherStudy Material\Extera_Work\Search_Case\Search_Case\obj\x86\Debug\Search_Case.pdb
+C:\Users\User\Desktop\Search_Case\Search_Case\obj\x86\Debug\Search_Case.exe
+C:\Users\User\Desktop\Search_Case\Search_Case\obj\x86\Debug\Search_Case.pdb
+C:\Users\User\Desktop\Search_Case\Search_Case\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Form1.resources
+C:\Users\User\Desktop\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Home.resources
+C:\Users\User\Desktop\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Properties.Resources.resources
+C:\Users\User\Desktop\Search_Case\Search_Case\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Search_Case\Search_Case\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Search_Case\Search_Case\bin\Debug\Search_Case.exe
+C:\Users\User\Desktop\Search_Case\Search_Case\bin\Debug\Search_Case.pdb
+C:\Users\User\Desktop\Search_Case\Search_Case\bin\Debug\UnityEngine.dll
+C:\Users\User\Desktop\Search_Case\Search_Case\bin\Debug\QRCoder.pdb
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.exe
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.pdb
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\bin\Debug\Search_Case.exe
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\bin\Debug\Search_Case.pdb
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\bin\Debug\UnityEngine.dll
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\bin\Debug\QRCoder.pdb
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.csprojResolveAssemblyReference.cache
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Form1.resources
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Home.resources
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Properties.Resources.resources
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.csproj.GenerateResource.Cache
+C:\Users\BlackHammer\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.Search.resources
+C:\Users\Vaishnavi\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.exe
+C:\Users\Vaishnavi\Desktop\final\Search_Case\Search_Case\obj\x86\Debug\Search_Case.pdb
